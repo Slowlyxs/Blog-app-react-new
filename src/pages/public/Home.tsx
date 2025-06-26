@@ -37,6 +37,7 @@ export function Home(): JSX.Element {
           </CardContent>
         </Card>
       ))}
+    
     </Box>
   );
 }
